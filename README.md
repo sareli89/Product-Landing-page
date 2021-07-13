@@ -1,2 +1,3 @@
 # Product Landing page
- Frecode camp practice of a product landing page
+ 
+ Hello, this is a freecodecamp practice of a product landing page.
