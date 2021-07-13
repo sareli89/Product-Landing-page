@@ -17,18 +17,18 @@ section h2 {
 }
 
 .container {
-  display: flex;
-  background-color: hsla(201, 100%, 75%, 0.3);
-  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-  justify-content: center;
-  max-width: 700 px;
-  margin: 40px;
-  padding:10px;
+    display: flex;
+    background-color: hsla(201, 100%, 75%, 0.3);
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    max-width: 700 px;
+    margin: 40px;
+    padding:10px;
 }
 
-  img {
-  max-width: 100%;
-  height: auto;
+img {
+    max-width: 100%;
+    height: auto;
 }
 
   content {
